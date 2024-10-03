@@ -1,4 +1,4 @@
-# &#128752 Weather Satellite Imagery
+# :satellite: Weather Satellite Imagery 
 
 # Description
 A Weather Satellite / Radar imagery program to pull data from the AccuWeather network.
